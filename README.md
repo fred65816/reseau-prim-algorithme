@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet a été fait dans le cadre du cours [INF3105 - Structures de données et algorithmes](https://etudier.uqam.ca/cours?sigle=INF3105) du Baccalauréat en informatique et génie logiciel de l'UQAM en 2018. Ler but du travail était de trouver chercher un arbre de recouvrement à coût maximum (MST) d'un graphe en se basant sur [l'algorithme de Prim](https://en.wikipedia.org/wiki/Prim%27s_algorithm). L'énoncé détaillé du projet est dans le fichier [enonce.pdf](enonce.pdf).
+Ce projet a été fait dans le cadre du cours [INF3105 - Structures de données et algorithmes](https://etudier.uqam.ca/cours?sigle=INF3105) du Baccalauréat en informatique et génie logiciel de l'UQAM en 2018. Ler but du travail était de trouver chercher un arbre de recouvrement à coût maximum (MST) d'un graphe en se basant sur [l'algorithme de Prim](https://en.wikipedia.org/wiki/Prim%27s_algorithm) et en utilisant la librairie standard de C++ (STL). L'énoncé détaillé du projet est dans le fichier [enonce.pdf](enonce.pdf).
 
 ## Contexte
 
